@@ -5,11 +5,13 @@
 
 **Features:**
 
- - Searches code, not comments. So you can find code that you are looking for!
+ - Searches code not comments. So you can find code that you are looking for!  We can add ability to search comments trivially.  
  - Can find code even if you don't know the syntax
  - Can find code even if you don't know what keywords to search for
  - Search is not sensitive to synonyms or specific word choice. Instead searches for "meaning"
 
+**Product**
+ - Product idea will be to augment our existing search (not replace it) by also returning results of semantic code search in addition to classic search.   
 
 **Resources:**
 
