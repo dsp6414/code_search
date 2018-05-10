@@ -21,3 +21,12 @@
 - Technique that inspired this approach: [DeVisE](http://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model.pdf)
 - The open source version of this will be hosted [here](https://github.com/hamelsmu/code_search)
 - Medium blog post: TBD
+
+
+## Team
+
+From left to right: [Hamel Husain](https://www.linkedin.com/in/hamelhusain/), [Ho-Hsiang Wu](https://www.linkedin.com/in/hohsiangwu/),  [Justin Palmer](https://github.com/caged)
+
+&nbsp; | &nbsp; | &nbsp;
+:---: | :---: | :---: 
+![](https://github.com/hamelsmu.png?size=150) | ![](https://github.com/hohsiangwu.png?size=150) | ![](https://github.com/caged.png?size=150)
