@@ -1,8 +1,9 @@
 # Natural Language Semantic Code Search
 
-
+### Interactive example in a Jupyter notebook
 ![Alt Text](./gifs/Natural_Language_Code_Search_Demo.gif)
 
+### Example of a user interface for search
 ![Alt Text](./gifs/Code_Search_Demo_v4.gif)
 
 
