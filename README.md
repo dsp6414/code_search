@@ -16,7 +16,7 @@
  - Product idea will be to augment our existing search (not replace it) by also returning results of semantic code search in addition to classic search.   
 
 **Resources:**
-- [Hackweek Talk (15 minutes](https://githubber.tv/hamelsmu/code-search-hackweek)
+- [Hackweek Talk (15 minutes)](https://githubber.tv/hamelsmu/code-search-hackweek)
 - 15 minute video: [How does this work?](https://youtu.be/nSQIyqtWroU)
 - Technique that inspired this approach: [DeVisE](http://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model.pdf)
 - The open source version of this will be hosted [here](https://github.com/hamelsmu/code_search)
