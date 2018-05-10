@@ -1,6 +1,5 @@
 # Natural Language Semantic Code Search
 
-### Example of a user interface for search
 ![Alt Text](./gifs/Code_Search_Demo_v4.gif)
 
 ## Live Demo: http://analytics-exploration-e26ed19.private-us-east-1.github.net:3000/
