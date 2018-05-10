@@ -3,7 +3,7 @@
 
 ![Alt Text](./gifs/Natural_Language_Code_Search_Demo.gif)
 
-![Alt Text](./gifs/Code Search Demo v4.gif)
+![Alt Text](./gifs/Code_Search_Demo_v4.gif)
 
 
 
