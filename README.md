@@ -3,6 +3,10 @@
 
 ![Alt Text](./gifs/Natural_Language_Code_Search_Demo.gif)
 
+![Alt Text](./gifs/Code Search Demo v4.gif)
+
+
+
 **Features:**
 
  - Searches code not comments. So you can find code that you are looking for!  We can add ability to search comments trivially.  
